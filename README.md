@@ -47,8 +47,9 @@ The main objectives of this project are:
 
 ## 🔄 Project Workflow
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/850e184c-086c-40ef-b28b-73e4ce6505e5" />
+
 ## 📈 Dashboard
-<img width="559" height="307" alt="image" src="https://github.com/user-attachments/assets/0d0e6ffe-8f8a-49e8-b497-39b524f8bc9f" />
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/0d0e6ffe-8f8a-49e8-b497-39b524f8bc9f" />
 
 ## 💡 Key Insights
 - Identified high-value customer segments
